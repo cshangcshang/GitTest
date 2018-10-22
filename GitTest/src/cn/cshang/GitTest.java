@@ -10,4 +10,7 @@ public class GitTest {
 	public static void say(String word) {
 		System.out.println(word);
 	}
+	public void hello() {
+		System.out.println("2018-10-22,测试更新");
+	}
 }
